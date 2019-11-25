@@ -26,7 +26,7 @@ headers = {
 location = "Bengaluru Karnataka"
 # Change the job keyword with space between each keyword like <data engineer>
 job_keyword = "Content Writer"
-
+# List logic can be implemented here.
 
 updated_location = ",+".join(location.split(' '))
 updated_keyword = "+".join(job_keyword.split(' '))
